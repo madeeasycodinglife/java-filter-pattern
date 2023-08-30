@@ -7,6 +7,15 @@ to define multiple filtering conditions and apply them to a collection of object
 
 Here's an example of a filter pattern in Java that filters a list of persons based on different criteria:
 
+  Persons Collection
+       /   |   \
+ Alice  Bob  Charlie
+  /      /       \
+Male   Female   Male
+Single Married  Single
+
+
+
 ```java
 import java.util.ArrayList;
 import java.util.List;
